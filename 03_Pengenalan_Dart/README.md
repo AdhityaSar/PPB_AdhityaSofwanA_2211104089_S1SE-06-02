@@ -198,7 +198,7 @@ void main() {
     print('$nilai merupakan $hasil');
 }
 ```
-![Tugas percabangan](<UNGUIDED/Dok/1 Tugas Percabangan.png>)
+![Tugas percabangan](<UNGUIDED/Dok/1 Tugas percabangan.png>)
 
 ## 2. Tugas Looping (Perulangan)
 ```
