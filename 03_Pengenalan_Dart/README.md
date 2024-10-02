@@ -1,7 +1,6 @@
 Praktikum Pertemuan ke 3 </br>
 Adhitya Sofwan Al Rasyid </br>
-2211104089
-
+2211104089 </br>
 # **PENGENALAN DART**
 
 # GUIDED
@@ -198,7 +197,7 @@ void main() {
     print('$nilai merupakan $hasil');
 }
 ```
-![Tugas percabangan](<UNGUIDED/Dok/1 Tugas percabangan.png>)
+
 
 ## 2. Tugas Looping (Perulangan)
 ```
