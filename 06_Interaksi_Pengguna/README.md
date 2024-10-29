@@ -455,7 +455,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
 ## Output
 
-![Output](Screenshot_1730213399.png)
+![Output](UNGUIDED/Dok/output.png)
 
 ## Deskripsi Program
 
