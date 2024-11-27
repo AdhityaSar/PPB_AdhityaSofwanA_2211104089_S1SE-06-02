@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522012120175",
+    "project_id": "praktikumfcm-e2c0f",
+    "storage_bucket": "praktikumfcm-e2c0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522012120175:android:5cf3137ba6e9c7967a299a",
+        "android_client_info": {
+          "package_name": "com.example.prak11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyVVuZNMPyZCqTD8s5Qje73ZTffKUTuVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
